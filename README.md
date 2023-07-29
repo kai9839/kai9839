@@ -22,10 +22,12 @@ Here are some ideas to get you started:
   <a href="https://github.com/kai9839"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kai9839&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Jacky's github stats" /></a> 
   <a href="https://github.com/kai9839"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kai9839&layout=compact&theme=vue&hide_border=true" /></a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kai9839/kai9839/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kai9839/kai9839/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kai9839/kai9839/output/github-contribution-grid-snake.svg">
-</picture>
+### My GitHub Contribution 👋
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kai9839/kai9839/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kai9839/kai9839/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kai9839/kai9839/output/github-contribution-grid-snake.svg">
+  </picture>
 
 </div>
